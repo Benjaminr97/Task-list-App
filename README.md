@@ -11,10 +11,8 @@ Task marked completed:
 ![completed task](https://user-images.githubusercontent.com/94325660/206516659-799157aa-794d-409f-aa60-0dc9847d5460.PNG)
 
 
-
-
 Features:
-➕ Add todos
-🗑️ Delete todos
-🌙 Light \ dark mode toggle
-🧮 Counts number of Tasks entered and Completed
+➕ Add todos,
+🗑️ Delete todos,
+🌙 Light \ dark mode toggle,
+🧮 Counts number of tasks entered and completed,
