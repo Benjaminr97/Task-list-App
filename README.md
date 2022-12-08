@@ -15,4 +15,4 @@ Features:
 ➕ Add todos,
 🗑️ Delete todos,
 🌙 Light \ dark mode toggle,
-🧮 Counts number of tasks entered and completed,
+🧮 Counts number of tasks entered and completed
